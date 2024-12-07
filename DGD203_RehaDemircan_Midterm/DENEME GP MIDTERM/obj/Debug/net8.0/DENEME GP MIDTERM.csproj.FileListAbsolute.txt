@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\bin\Debug\net8.0\DENEME GP MIDTERM.exe
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\bin\Debug\net8.0\DENEME GP MIDTERM.deps.json
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\bin\Debug\net8.0\DENEME GP MIDTERM.runtimeconfig.json
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\bin\Debug\net8.0\DENEME GP MIDTERM.dll
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\bin\Debug\net8.0\DENEME GP MIDTERM.pdb
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\obj\Debug\net8.0\DENEME GP MIDTERM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\obj\Debug\net8.0\DENEME GP MIDTERM.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\obj\Debug\net8.0\DENEME GP MIDTERM.AssemblyInfo.cs
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\obj\Debug\net8.0\DENEME GP MIDTERM.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\obj\Debug\net8.0\DENEME GP MIDTERM.dll
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\obj\Debug\net8.0\refint\DENEME GP MIDTERM.dll
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\obj\Debug\net8.0\DENEME GP MIDTERM.pdb
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\obj\Debug\net8.0\DENEME GP MIDTERM.genruntimeconfig.cache
+C:\Users\pc\source\repos\DENEME GP MIDTERM\DENEME GP MIDTERM\obj\Debug\net8.0\ref\DENEME GP MIDTERM.dll
